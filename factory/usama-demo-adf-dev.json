@@ -1,0 +1,9 @@
+{
+	"name": "usama-demo-adf-dev",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e41c10fb-e9cf-4eb9-a41e-a6de80724f28",
+		"tenantId": "93f0f3ad-2b48-4840-9cde-80bf4d0bc4da"
+	}
+}
